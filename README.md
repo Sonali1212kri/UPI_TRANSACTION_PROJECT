@@ -1,34 +1,34 @@
 # UPI_TRANSACTION_PROJECT
 This Power BI project provides an analytical overview of UPI (Unified Payments Interface) transactions across multiple cities, banks, and time periods. The dashboard allows users to explore trends, balances, and transaction behaviors with a user-friendly and interactive design. The report includes multiple pages linked through Power BI bookmarks. 
 
-# Key Features :
+## Key Features :
 
-Interactive Bookmarks Navigation:
-Implemented bookmarks to switch seamlessly between different report pages (e.g., monthly summary view and detailed city-wise analysis).
-Dynamic Filters and Slicers:
-Users can filter data by:
-Bank Name (Sent/Received)
-City
-Device Type
-Gender
-Age Group
-Merchant Name
-Payment Method
-Purpose
-Transaction Type
-Visual Insights:
-Page 1:
-Column chart showing monthly balances for the year 2024.
-Visual comparison of balance trends over months.
-Page 2:
-Matrix visual representing city-wise transaction details, including:
-Amount
-Remaining Balance
-Currency (EUR, USD, GBP, INR)
-Custom Visualizations:
-Used Power BI’s built-in visuals such as column charts, line charts, and matrix tables for clear data representation.
-Data Modeling:
-Data imported from a structured dataset named UPI Transaction, organized for better performance and interactivity.
+# Interactive Bookmarks Navigation:<br />
+Implemented bookmarks to switch seamlessly between different report pages (e.g., monthly summary view and detailed city-wise analysis).<br />
+# Dynamic Filters and Slicers:<br />
+Users can filter data by:<br />
+Bank Name (Sent/Received)<br />
+City<br />
+Device Type<br />
+Gender<br />
+Age Group<br />
+Merchant Name<br />
+Payment Method<br />
+Purpose<br />
+Transaction Type<br />
+# Visual Insights:<br />
+Page 1:<br />
+Column chart showing monthly balances for the year 2024.<br />
+Visual comparison of balance trends over months.<br />
+Page 2:<br />
+Matrix visual representing city-wise transaction details, including:<br />
+Amount<br />
+Remaining Balance<br />
+Currency (EUR, USD, GBP, INR)<br />
+# Custom Visualizations:<br />
+Used Power BI’s built-in visuals such as column charts, line charts, and matrix tables for clear data representation.<br />
+# Data Modeling:<br />
+Data imported from a structured dataset named UPI Transaction, organized for better performance and interactivity.<br />
 
 # Insights Gained :
 
@@ -51,9 +51,6 @@ Page 2: City-wise Transaction Summary<br />
 # Repository Structure : 
 Data : https://github.com/Sonali1212kri/UPI_TRANSACTION_PROJECT/blob/main/UPI%2BTransactions%20(1).xlsx<br />
 Dashboard : https://github.com/Sonali1212kri/UPI_TRANSACTION_PROJECT/blob/main/UPI%20Transaction%20Report.pbix<br />
-Image 1 : https://github.com/Sonali1212kri/UPI_TRANSACTION_PROJECT/blob/main/UPI%20Transaction.%20Image1.png<br />
+Image 1 : https://github.com/Sonali1212kri/UPI_TRANSACTION_PROJECT/blob/main/UPI%20Transaction.%20Image1.png<br /> 
 Image 2 : https://github.com/Sonali1212kri/UPI_TRANSACTION_PROJECT/blob/main/UPI%20Transaction.%20Image2.png<br />
 
-Use slicers to filter and analyze specific insights.
-
-Use navigation buttons/bookmarks to switch between views easily.
